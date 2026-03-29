@@ -9,8 +9,8 @@
 
   <ItemGroup>
     <PackageReference Include="Bogus" Version="35.6.5" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.2" />
-    <PackageReference Include="ModelContextProtocol" Version="0.6.0-preview.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.5" />
+    <PackageReference Include="ModelContextProtocol" Version="1.2.0" />
   </ItemGroup>
 
 </Project>
